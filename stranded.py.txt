@@ -2,7 +2,6 @@
 import time
 import random
 print("Welcome to the text adventure game, try to survive. Have fun!")
-print("This program is made by GEANIUS GAEMES™")
 print("Press enter to start playing")
 start = input()
 inventory = []
