@@ -8,7 +8,7 @@ time.sleep(2)
 print()
 print("""You wake up in the morning and see that it is 9:55 AM,
         you were supposed to be in the office at 9:00 AM but 
-        you partied last night in the club and slept a 1:00 AM.
+        you partied last night in the club and slept at 1:00 AM.
         You ride your Subaru to the office at 10:11 AM and reach 
         the office at 10:24 AM, your boss asks you why you were
         1 hour and 24 minutes late.""")
